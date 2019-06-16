@@ -1,0 +1,23 @@
+{
+  "name": "react-ojs-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanthales/react-ojs-db.git"
+  },
+  "author": "Alan Thales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanthales/react-ojs-db/issues"
+  },
+  "homepage": "https://github.com/alanthales/react-ojs-db#readme",
+  "dependencies": {
+    "ojs-db": "git+https://github.com/alanthales/ojs-db.git",
+    "react": "^16.8.6"
+  }
+}
